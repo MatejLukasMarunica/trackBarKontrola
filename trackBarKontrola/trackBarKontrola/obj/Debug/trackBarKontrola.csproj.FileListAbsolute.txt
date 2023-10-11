@@ -1,0 +1,11 @@
+C:\Users\ucenik\Desktop\VS 2022 - Matej Lukas Marunica 3.D\trackBarKontrola\trackBarKontrola\obj\Debug\trackBarKontrola.csproj.AssemblyReference.cache
+C:\Users\ucenik\Desktop\VS 2022 - Matej Lukas Marunica 3.D\trackBarKontrola\trackBarKontrola\obj\Debug\trackBarKontrola.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Desktop\VS 2022 - Matej Lukas Marunica 3.D\trackBarKontrola\trackBarKontrola\obj\Debug\trackBarKontrola.Form1.resources
+C:\Users\ucenik\Desktop\VS 2022 - Matej Lukas Marunica 3.D\trackBarKontrola\trackBarKontrola\obj\Debug\trackBarKontrola.Properties.Resources.resources
+C:\Users\ucenik\Desktop\VS 2022 - Matej Lukas Marunica 3.D\trackBarKontrola\trackBarKontrola\obj\Debug\trackBarKontrola.csproj.GenerateResource.cache
+C:\Users\ucenik\Desktop\VS 2022 - Matej Lukas Marunica 3.D\trackBarKontrola\trackBarKontrola\obj\Debug\trackBarKontrola.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Desktop\VS 2022 - Matej Lukas Marunica 3.D\trackBarKontrola\trackBarKontrola\bin\Debug\trackBarKontrola.exe.config
+C:\Users\ucenik\Desktop\VS 2022 - Matej Lukas Marunica 3.D\trackBarKontrola\trackBarKontrola\bin\Debug\trackBarKontrola.exe
+C:\Users\ucenik\Desktop\VS 2022 - Matej Lukas Marunica 3.D\trackBarKontrola\trackBarKontrola\bin\Debug\trackBarKontrola.pdb
+C:\Users\ucenik\Desktop\VS 2022 - Matej Lukas Marunica 3.D\trackBarKontrola\trackBarKontrola\obj\Debug\trackBarKontrola.exe
+C:\Users\ucenik\Desktop\VS 2022 - Matej Lukas Marunica 3.D\trackBarKontrola\trackBarKontrola\obj\Debug\trackBarKontrola.pdb
